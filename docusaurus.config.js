@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'idempiere', // Usually your GitHub org/user name.
-  projectName: 'idempiere.github.io', // Usually your repo name.
+  organizationName: 'WitsPer-Global-Corp', // Usually your GitHub org/user name.
+  projectName: 'erp-idempiere-doc', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -75,7 +75,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/idempiere/idempiere.github.io/tree/main/',
+            'https://github.com/WitsPer-Global-Corp/erp-idempiere-doc/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
