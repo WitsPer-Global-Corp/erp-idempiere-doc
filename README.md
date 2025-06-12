@@ -34,8 +34,8 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 source ~/.bashrc
 nvm list-remote
 nvm install v18.16.0
-git clone https://github.com/idempiere/idempiere.github.io
-cd idempiere.github.io/
+git clone https://github.com/WitsPer-Global-Corp/erp-idempiere-doc
+cd erp-idempiere-doc/
 npm install
 npm start #builds and launches the site locally
 ```
