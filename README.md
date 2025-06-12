@@ -37,7 +37,7 @@ nvm install v18.16.0
 git clone https://github.com/WitsPer-Global-Corp/erp-idempiere-doc
 cd erp-idempiere-doc/
 npm install
-npm start #builds and launches the site locally
+npm start -- --host 0.0.0.0 #builds and launches the site locally
 ```
 
 Want to edit documents on "idempiere.github.io/docs" and see your changes instantly in the browser? Here's how:
