@@ -1,11 +1,11 @@
 ---
-sidebar_position：1
+sidebar_position: 1
 ---
-＃ 目的
+# 目的
 
 本章的目的是獲取您自己的Idempiere副本，並為您的學習和遊戲經驗而運行。請注意，將來的章節將介紹生產質量的安裝說明。
 
-＃IDEMPIERE安裝
+# IDEMPIERE安裝
 
 安裝IDEMPIERE的最簡單方法是使用Docker，假設您可以與Docker訪問和知識。
 

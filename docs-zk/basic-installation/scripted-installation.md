@@ -1,12 +1,12 @@
 ---
-sidebar_position：2
+sidebar_position: 2
 ---
 
 從“@themy/tabs”導入選項卡；
 導入tabitem來自“@them/tabitem”;
 
-＃腳本安裝
+# 腳本安裝
 
-##快速開始
+## 快速開始
 
-＃＃ 先進的
+## 先進的

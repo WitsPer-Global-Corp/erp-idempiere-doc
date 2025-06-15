@@ -1,19 +1,19 @@
 ---
-sidebar_position：15
+sidebar_position: 15
 ---
 
 
-＃系統概述
+# 系統概述
 
-##一些評論
+## 一些評論
 本指南應有助於探索Gardenworld公司的IDEMPIERE演示系統。
 它將集中在執行簡單業務的相關步驟上。
 建立新公司或更詳細的選項，包括廣泛的自定義不是
 本文檔的一部分。
 
-## iDempiere中的erp功能
+## Idempiere中的ERP功能
 IDEMPIERE有許多重要的功能區域。這裡的主要區域
-正如您登錄為GardenAdmin時可以在Menue中找到的那樣：
+正如您以花園管理登錄時在菜單中可以找到的那樣：
 - 系統管理員
 - 應用詞典
 - 伴侶關係
@@ -36,9 +36,9 @@ IDEMPIERE有許多重要的功能區域。這裡的主要區域
 諸如**資產**或**製造**的更複雜的funciton不會成為本指南的一部分。
 
 在這裡參考
-！
+！ [idempiere的菜單]（./ pngs/菜單.png）
 
-## Outlook
+## 前景
 
-要開始仔細研究Idempiere，探索Menue是一件好事，然後
+要開始介紹Idempiere，最好探索菜單，然後
 仔細研究**業務合作夥伴**和**產品**的主要主數據
